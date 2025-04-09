@@ -1,4 +1,4 @@
-# Database Health Analyzer
+# Database HealthWatch
 
 A Python-based tool for analyzing Oracle Automatic Workload Repository (AWR) reports using LangChain and AI to provide intelligent database health assessments and recommendations.
 
@@ -65,7 +65,3 @@ The analysis results include:
 ## Contributing
 
 Feel free to submit issues and pull requests.
-
-## License
-
-[Add your license information here]
